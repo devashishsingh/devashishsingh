@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devashishsingh https://devashishsingh.com
 - 👀 I’m interested in getting things done the best way I could :)
-- 🌱 I’m currently learning 
+- 🌱 In Learning phase & perhaps will always be! 
 - 1. Portswigger's academy offering web security courses along with Labs. keen to follow their learning path.
 - 2. Elasticsearch engineering training and kibana development.
 - 3. Cloud engineering
